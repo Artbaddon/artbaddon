@@ -64,3 +64,6 @@ Bogotá, Colombia
 - Location: Bogotá, Colombia
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artbaddon&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=artbaddon&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artbaddon&theme=default&show_icons=true&hide_border=true&layout=compact)
