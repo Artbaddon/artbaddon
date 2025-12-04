@@ -64,6 +64,12 @@ Bogotá, Colombia
 - Location: Bogotá, Colombia
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artbaddon&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://streak-stats.demolab.com?user=artbaddon&theme=default&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artbaddon&theme=default&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artbaddon&theme=transparent" alt="GitHub Stats" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=artbaddon&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="49%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artbaddon&theme=github-dark&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&radius=16" alt="Activity Graph" width="98%">
+</div>
+
